@@ -31,7 +31,7 @@
         <div class="container-contact100-form-btn">
           <div class="wrap-contact100-form-btn">
             <div class="contact100-form-bgbtn"></div>
-            <a class="contact100-form-btn submit">Kirim</a>
+            <a class="contact100-form-btn submit" >Kirim</a>
           </div>
         </div>
       </form>
